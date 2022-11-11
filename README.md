@@ -1,3 +1,4 @@
+![](https://github.com/rebin03/rebin03/blob/main/assets/my%20intro%20gif.gif)
 <h1>Hi, I'm Muhammed Rebin P</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_rbn)
