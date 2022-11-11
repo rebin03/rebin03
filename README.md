@@ -7,7 +7,7 @@
 
 
 Hi there 👋! \
-I'm Muhammed Rebin P, B.Tech undergrad at CUSAT.I am passionate about building things that live on the internet, and I love learning about new technologies and how to make them work for the good of the web.
+I'm Muhammed Rebin P, B.Tech undergrad at CUSAT.I am passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
 
  
 - 🌱 I’m currently working on web development.
