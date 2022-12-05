@@ -20,10 +20,10 @@ I'm Muhammed Rebin P, B.Tech undergrad at CUSAT.I am passionate about building t
 
 ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default)
 
-[![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03)](https://wakatime.com/@sharunrajeev)
+[![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03)](https://wakatime.com/@rebin03)
 
 <!-- ## 💻 Coding Time
-[![Sharun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebin03)](https://wakatime.com/@rebin03) -->
+[![Rebin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebin03)](https://wakatime.com/@rebin03) -->
 
 ## 🧠 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
