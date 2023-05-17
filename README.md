@@ -10,9 +10,10 @@ Hi there 👋! \
 I'm Muhammed Rebin P, B.Tech undergrad at CUSAT.I am passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
 
  
-- 🌱 I’m currently working on web development.
+- 🌱 I’m currently working on Blockchain based Application.
 - 🤔 Looking for a mentor.
-- 💬 Ask me about java or C++
+- 💬 Ask me about C++ and Python
+- 😋 Curious about AI, ML and Blockchain.
 - 📫 How to reach me: [@muhammed_rebin](https://www.linkedin.com/in/muhammedrebin/)
 
 ## 📈 GitHub Status
