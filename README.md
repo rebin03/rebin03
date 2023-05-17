@@ -7,7 +7,7 @@
 
 
 Hi there 👋! \
-I'm Muhammed Rebin P, B.Tech undergrad at CUSAT.I am passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
+I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at Cochin University of Science and Tecnology.I'm passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
 
  
 - 🌱 I’m currently working on Blockchain based Application.
