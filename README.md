@@ -14,7 +14,7 @@ I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at 
 - 🤔 Looking for a mentor.
 - 💬 Ask me about C++ and Python
 - 😋 Curious about AI, ML and Blockchain.
-- 📫 How to reach me: [@muhammed_rebin](https://www.linkedin.com/in/muhammedrebin/)
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 
 ## 📈 GitHub Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact)](https://github.com/rebin03)
