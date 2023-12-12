@@ -10,11 +10,12 @@ Hi there 👋! \
 I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at Cochin University of Science and Tecnology.I'm passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
 
  
-- 🌱 I’m currently working on Blockchain based Application.
+- 🌱 I’m currently working on ML based Application.
 - 🤔 Looking for a mentor.
-- 💬 Ask me about C++ and Python
+- 💬 Ask me about Java and Python
 - 😋 Curious about AI, ML and Blockchain.
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
+- 🌐 My portfolio: <a href='https://rebin03.github.io/portfolio/' target="_blank">Click here</a>
 
 ## 📈 GitHub Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact)](https://github.com/rebin03)
