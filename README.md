@@ -44,7 +44,6 @@ I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at 
 ![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232A)
 ![Web3](https://img.shields.io/badge/Web3-F16722?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Google Chorme](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
