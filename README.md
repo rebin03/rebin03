@@ -13,7 +13,7 @@ I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at 
 - 🌱 I’m currently working on ML based Application.
 - 🤔 Looking for a mentor.
 - 💬 Ask me about Java and Python
-- 😋 Curious about AI, ML and Blockchain.
+- 😋 Excited about AI, ML and Blockchain.
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 - 🌐 My portfolio: <a href='https://rebin03.github.io/portfolio/' target="_blank">Click here</a>
 
