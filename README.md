@@ -1,21 +1,21 @@
 ![](https://github.com/rebin03/rebin03/blob/main/assets/intro.gif)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_rbn)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedrebin/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.rbn/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.rebiin/)
+[![X Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_rbn)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@muhammedrebin)
 
 
 Hi there 👋! \
-I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at Cochin University of Science and Tecnology.I'm passionate about building things that live on the internet, and I love learning about new technologies and to make them work for better living.
+I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering from Cochin University of Science and Technology. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
 
  
-- 🌱 I’m currently working on ML based Application.
+- 🌱 I’m currently working on Python Django-based application
 - 🤔 Looking for a mentor.
-- 💬 Ask me about Java and Python
-- 😋 Excited about AI, ML and Blockchain.
+- 💬 Ask me about Python and java
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
-- 🌐 My portfolio: <a href='https://rebin03.github.io/portfolio/' target="_blank">Click here</a>
+- 🌐 My portfolio: <a href='https://muhammedrebin.vercel.app/' target="_blank">Click here</a>
 
 ## 📈 GitHub Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact)](https://github.com/rebin03)
@@ -35,7 +35,6 @@ I'm Muhammed Rebin, B.Tech undergraduate in Computer Science and Engineering at 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
