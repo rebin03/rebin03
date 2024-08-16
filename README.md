@@ -1,3 +1,5 @@
+<div align="center">
+
 ![](https://github.com/rebin03/rebin03/blob/main/assets/intro.gif)
 
 
@@ -6,23 +8,25 @@
 [![X Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_rbn)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@muhammedrebin)
 
+</div>
 
 Hi there 👋! \
 I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering from Cochin University of Science and Technology. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
 
- 
-- 🌱 I’m currently working on Python Django-based application
-- 🤔 Looking for a mentor.
-- 💬 Ask me about Python and java
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 - 🌐 My portfolio: <a href='https://muhammedrebin.vercel.app/' target="_blank">Click here</a>
 
 ## 📈 GitHub Status
+
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact)](https://github.com/rebin03)
 
 ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default)
 
 [![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03)](https://wakatime.com/@rebin03)
+
+</div>
 
 <!-- ## 💻 Coding Time
 [![Rebin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rebin03)](https://wakatime.com/@rebin03) -->
