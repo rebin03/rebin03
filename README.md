@@ -22,7 +22,7 @@ I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering from C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact)](https://github.com/rebin03)
 
-![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default)
+<!-- ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default) -->
 
 [![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03)](https://wakatime.com/@rebin03)
 
