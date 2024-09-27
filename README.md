@@ -11,7 +11,7 @@
 </div>
 
 Hi there 👋! \
-I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering from Cochin University of Science and Technology. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
+I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
 
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 - 🌐 My portfolio: <a href='https://muhammedrebin.vercel.app/' target="_blank">Click here</a>
