@@ -1,6 +1,6 @@
 
-Hi there 👋! \
-I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
+**Hi there 👋!** \
+I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
 
 <div align="center">
 <!-- 
