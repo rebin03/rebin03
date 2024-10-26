@@ -1,7 +1,11 @@
+
+Hi there 👋! \
+I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
+
 <div align="center">
-
+<!-- 
 ![](https://github.com/rebin03/rebin03/blob/main/assets/intro.gif)
-
+-->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedrebin/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.rebiin/)
@@ -9,9 +13,6 @@
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@muhammedrebin)
 
 </div>
-
-Hi there 👋! \
-I'm Muhammed Rebin, a B.Tech graduate in Computer Science and Engineering. I'm passionate about building things that live on the internet, and I love learning about new technologies and making them work for a better living.
 
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 - 🌐 My portfolio: <a href='https://muhammedrebin.vercel.app/' target="_blank">Click here</a>
