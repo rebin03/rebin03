@@ -24,8 +24,17 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact&theme=tokyonight)](https://github.com/rebin03) -->
 <!-- ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default) -->
-<img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117" alt="rebin03" />
-<img align="center" height=178 src="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=react" alt="rebin03" />
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=default&hide_border=true" alt="rebin03" />
+</picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=react" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img align="center" height="178" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=default" alt="rebin03" />
+</picture>
+
 <!--[![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117)](https://wakatime.com/@rebin03) -->
 
 <!-- ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=rebin03&theme=xcode) -->
