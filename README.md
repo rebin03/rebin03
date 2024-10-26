@@ -6,11 +6,29 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 <!-- 
 ![](https://github.com/rebin03/rebin03/blob/main/assets/intro.gif)
 -->
-
+<!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedrebin/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam.rebiin/)
 [![X Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iam_rbn)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@muhammedrebin)
+-->
+  
+<a href="https://www.linkedin.com/in/muhammedrebin/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40" height="40" alt="LinkedIn" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/iam.rebiin/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" alt="Instagram" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/iam_rbn" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40" height="40" alt="X" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.figma.com/@muhammedrebin" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/F24E1E/figma.png" width="40" height="40" alt="Figma" />
+</a>
+
 
 </div>
 
