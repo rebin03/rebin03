@@ -22,7 +22,7 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/iam_rbn" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40" height="40" alt="X" />
+  <img src="https://img.icons8.com/ios-filled/50/1DA1F2/x.png" width="40" height="40" alt="X" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.figma.com/@muhammedrebin" target="_blank">
