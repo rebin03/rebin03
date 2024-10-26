@@ -17,6 +17,30 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
 - 🌐 My portfolio: <a href='https://muhammedrebin.vercel.app/' target="_blank">Click here</a>
 
+
+## 📈 GitHub Status
+
+<div align="left">
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact&theme=tokyonight)](https://github.com/rebin03) -->
+<!-- ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default) -->
+<img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117" alt="rebin03" />
+<img align="center" height=178 src="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=react" alt="rebin03" />
+<!--[![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117)](https://wakatime.com/@rebin03) -->
+
+<!-- ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=rebin03&theme=xcode) -->
+
+</div>
+
+## 💼 Projects
+**These are some of my feature projects**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Text2Visual&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/Text2Visual)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=TerraBloc&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/TerraBloc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=CodeCasa&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/CodeCasa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Netflix-UI-clone&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/Netflix-UI-clone)
+
+
 ## 🧠 Technical Skills And Interests
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,28 +64,6 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- ![Web3](https://img.shields.io/badge/Web3-F16722?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) -->
-
-## 📈 GitHub Status
-
-<div align="left">
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebin03&layout=compact&theme=tokyonight)](https://github.com/rebin03) -->
-<!-- ![Rebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebin03&show_icons=true&theme=default) -->
-<img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117" alt="rebin03" />
-<img align="center" height=178 src="https://github-readme-stats.vercel.app/api/top-langs?username=rebin03&layout=compact&hide_border=true&theme=react" alt="rebin03" />
-<!--[![Rebin's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=rebin03&theme=react&hide_border=true&bg_color=0D1117)](https://wakatime.com/@rebin03) -->
-
-<!-- ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=rebin03&theme=xcode) -->
-
-</div>
-
-## 💼 Projects
-**These are some of my feature projects**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Text2Visual&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/Text2Visual)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=TerraBloc&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/TerraBloc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=CodeCasa&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/CodeCasa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Netflix-UI-clone&show_owner=true&theme=react&hide_border=true)](https://github.com/rebin03/Netflix-UI-clone)
 
 <!--
 ## 🏆 GitHub Trophies
