@@ -118,13 +118,16 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232A)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<!-- ![Web3](https://img.shields.io/badge/Web3-F16722?style=for-the-badge&logo=web3.js&logoColor=white)
+
+<!-- 
+
+![Web3](https://img.shields.io/badge/Web3-F16722?style=for-the-badge&logo=web3.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Google Chorme](https://img.shields.io/badge/Google_Chrome-F27E1E?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0058D6?style=for-the-badge&logo=windows&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232A)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) -->
 
 <!--
