@@ -104,8 +104,10 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django Rest Framework](https://img.shields.io/badge/DRF-2C2C2C?style=for-the-badge&logo=django&logoColor=red)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -117,10 +119,12 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232A)
-![Google Chorme](https://img.shields.io/badge/Google_Chrome-F27E1E?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0058D6?style=for-the-badge&logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <!-- ![Web3](https://img.shields.io/badge/Web3-F16722?style=for-the-badge&logo=web3.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Google Chorme](https://img.shields.io/badge/Google_Chrome-F27E1E?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0058D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) -->
 
 <!--
