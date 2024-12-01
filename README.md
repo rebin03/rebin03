@@ -62,6 +62,14 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 ## 💼 Projects
 **These are some of my feature projects**
 
+<a href="https://github.com/rebin03/Vesture" target="_blank">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Vesture&show_owner=true&theme=react&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Vesture&show_owner=true&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Vesture&show_owner=true&theme=default&hide_border=true" alt="Vesture Repo" />
+</picture>
+</a>
+
 <a href="https://github.com/rebin03/Text2Visual" target="_blank">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Text2Visual&show_owner=true&theme=react&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -83,14 +91,6 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
   <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=CodeCasa&show_owner=true&theme=react&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=CodeCasa&show_owner=true&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=CodeCasa&show_owner=true&theme=default&hide_border=true" alt="CodeCasa Repo" />
-</picture>
-</a>
-
-<a href="https://github.com/rebin03/Netflix-UI-clone" target="_blank">
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Netflix-UI-clone&show_owner=true&theme=react&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Netflix-UI-clone&show_owner=true&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebin03&repo=Netflix-UI-clone&show_owner=true&theme=default&hide_border=true" alt="Netflix-UI-clone Repo" />
 </picture>
 </a>
 
