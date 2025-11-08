@@ -31,9 +31,10 @@ I'm **Muhammed Rebin**, a B.Tech graduate in Computer Science and Engineering. I
 
 
 </div>
+<!-- linkedin icon -->
 
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
-- 🌐 My portfolio: <a href='https://muhammedrebin-eight.vercel.app/' target="_blank">Click here</a>
+- 📫 Reach me here: <a href='https://www.linkedin.com/in/muhammedrebin/' target="_blank">@muhammed_rebin</a>
+- 🌐 <a href='https://muhammedrebin.com/' target="_blank">muhammedrebin.com</a>
 
 
 ## 📈 GitHub Status
